@@ -1,3 +1,7 @@
+# Ventas Totales en Supermercados
+
+Este estudio se enfoca en examinar las ventas realizadas en supermercados localizados en Argentina. A través de un análisis explorando la evolución por canal de venta, medio de pago y grupos de artículos, se entiende cómo los consumidores acceden a los productos y cómo sus preferencias han cambiado, influenciadas por factores como la digitalización, la pandemia, el contexto político y las nuevas formas de pago. Este análisis proporcionará insights clave para la toma de decisiones estratégicas, la optimización de la oferta comercial y la mejora de la experiencia de compra.
+
 ```
 F:.
 │   ventas-totales-supermercados.csv
